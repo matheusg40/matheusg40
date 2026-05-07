@@ -68,11 +68,11 @@ Aqui você pode encontrar projetos relacionados a:
 
 ---
 
-## GitHub Stats
+## Evolução técnica
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusg40&show_icons=true&theme=tokyonight)
+Este perfil reúne projetos públicos voltados para estudos, simulações e prática técnica com dados, SQL Server, Python, automação, IA e desenvolvimento web.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg40&layout=compact&theme=tokyonight)
+Como parte da minha atuação profissional envolve dados e processos internos, mantenho aqui apenas projetos próprios, estudos e exemplos sem dados sensíveis.
 
 ---
 
